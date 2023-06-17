@@ -1,0 +1,13 @@
+{
+    "trial_specification_name": "pilot_O02_laser_5rep.csv",
+    "iti_duration": 1,
+    "blank_duration": 2,
+    "fade_duration": 0.5,
+    "preview_duration": 5,
+    "preview_wait_for_trigger": true,
+    "calibrate_eye_tracker": false,
+    "randomize_trials": true,
+    "preview_target_label": true,
+    "sound_on_view_misalignment": true,
+    "sound_on_trial_end": true
+}
