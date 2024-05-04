@@ -1,0 +1,10 @@
+trial_no,scene,target,response_mode,shift_objects,shift_x,shift_y,shift_z,view_rotation,preview_label
+1,K02,K02_L15,object,,0,0,0,0,Bread
+2,K02,K02_L14,object,,0,0,0,270,Pots
+3,K02,K02_L01,object,,0,0,0,0,Mango
+4,K02,K02_L15,cube,,0,0,0,0,Bread
+5,K02,K02_L14,cube,,0,0,0,270,Pots
+6,K02,K02_L01,cube,,0,0,0,0,Mango
+7,K02,K02_L15,laser,,0,0,0,0,Bread
+8,K02,K02_L14,laser,,0,0,0,270,Pots
+9,K02,K02_L01,laser,,0,0,0,0,Mango

@@ -1,0 +1,14 @@
+{
+    "trial_specification_name": "pilot_K01_stick_5rep.csv",
+    "iti_duration": 1.0,
+    "blank_duration": 2.0,
+    "fade_duration": 0.5,
+    "preview_duration": 5.0,
+    "preview_wait_for_trigger": true,
+    "calibrate_eye_tracker": true,
+    "randomize_trials": true,
+    "preview_target_label": true,
+    "sound_on_view_misalignment": true,
+    "sound_on_trial_end": true,
+    "show_mask_scene": false
+}

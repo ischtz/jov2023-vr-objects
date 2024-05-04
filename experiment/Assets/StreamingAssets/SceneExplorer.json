@@ -1,0 +1,14 @@
+{
+    "trial_specification_name": "all_scenes.csv",
+    "iti_duration": 1.0,
+    "blank_duration": 0.5,
+    "fade_duration": 0.25,
+    "preview_duration": 5.0,
+    "preview_wait_for_trigger": true,
+    "calibrate_eye_tracker": false,
+    "randomize_trials": false,
+    "preview_target_label": true,
+    "sound_on_view_misalignment": false,
+    "sound_on_trial_end": false,
+    "show_mask_scene": true
+}

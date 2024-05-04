@@ -1,0 +1,14 @@
+trial_no,scene,target,response_mode,shift_objects,shift_x,shift_y,shift_z,view_rotation
+1,B01,,laser,,0,0,0,0
+1,B03,,laser,,0,0,0,0
+1,L01,,laser,,0,0,0,0
+1,L02,,laser,,0,0,0,0
+1,L03,,laser,,0,0,0,0
+1,K01,,laser,,0,0,0,0
+1,K02,,laser,,0,0,0,0
+1,K03,,laser,,0,0,0,0
+1,O01,,laser,,0,0,0,0
+1,O02,,laser,,0,0,0,0
+1,O03,,laser,,0,0,0,0
+1,S02,,laser,,0,0,0,0
+1,S03,,laser,,0,0,0,0

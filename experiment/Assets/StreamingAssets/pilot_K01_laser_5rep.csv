@@ -1,0 +1,51 @@
+trial_no,scene,target,response_mode,shift_objects,shift_x,shift_y,shift_z,view_rotation,preview_label
+1,K01,K01_L05,laser,,0,0,0,180,Plant
+2,K01,K01_L25,laser,,0,0,0,90,Painting
+3,K01,K01_L16,laser,,0,0,0,90,Flowers
+4,K01,K01_L09,laser,,0,0,0,90,Plate
+5,K01,K01_L04,laser,,0,0,0,0,Breadbasket
+6,K01,K01_L07,laser,,0,0,0,270,Espresso Machine
+7,K01,K01_L15,laser,,0,0,0,270,Water Bottle
+8,K01,K01_L13,laser,,0,0,0,0,Cutting Board
+9,K01,K01_L12,laser,,0,0,0,0,Banana
+10,K01,K01_L19,laser,,0,0,0,270,Kettle
+1,K01,K01_L05,laser,,0,0,0,180,Plant
+2,K01,K01_L25,laser,,0,0,0,90,Painting
+3,K01,K01_L16,laser,,0,0,0,90,Flowers
+4,K01,K01_L09,laser,,0,0,0,90,Plate
+5,K01,K01_L04,laser,,0,0,0,0,Breadbasket
+6,K01,K01_L07,laser,,0,0,0,270,Espresso Machine
+7,K01,K01_L15,laser,,0,0,0,270,Water Bottle
+8,K01,K01_L13,laser,,0,0,0,0,Cutting Board
+9,K01,K01_L12,laser,,0,0,0,0,Banana
+10,K01,K01_L19,laser,,0,0,0,270,Kettle
+1,K01,K01_L05,laser,,0,0,0,180,Plant
+2,K01,K01_L25,laser,,0,0,0,90,Painting
+3,K01,K01_L16,laser,,0,0,0,90,Flowers
+4,K01,K01_L09,laser,,0,0,0,90,Plate
+5,K01,K01_L04,laser,,0,0,0,0,Breadbasket
+6,K01,K01_L07,laser,,0,0,0,270,Espresso Machine
+7,K01,K01_L15,laser,,0,0,0,270,Water Bottle
+8,K01,K01_L13,laser,,0,0,0,0,Cutting Board
+9,K01,K01_L12,laser,,0,0,0,0,Banana
+10,K01,K01_L19,laser,,0,0,0,270,Kettle
+1,K01,K01_L05,laser,,0,0,0,180,Plant
+2,K01,K01_L25,laser,,0,0,0,90,Painting
+3,K01,K01_L16,laser,,0,0,0,90,Flowers
+4,K01,K01_L09,laser,,0,0,0,90,Plate
+5,K01,K01_L04,laser,,0,0,0,0,Breadbasket
+6,K01,K01_L07,laser,,0,0,0,270,Espresso Machine
+7,K01,K01_L15,laser,,0,0,0,270,Water Bottle
+8,K01,K01_L13,laser,,0,0,0,0,Cutting Board
+9,K01,K01_L12,laser,,0,0,0,0,Banana
+10,K01,K01_L19,laser,,0,0,0,270,Kettle
+1,K01,K01_L05,laser,,0,0,0,180,Plant
+2,K01,K01_L25,laser,,0,0,0,90,Painting
+3,K01,K01_L16,laser,,0,0,0,90,Flowers
+4,K01,K01_L09,laser,,0,0,0,90,Plate
+5,K01,K01_L04,laser,,0,0,0,0,Breadbasket
+6,K01,K01_L07,laser,,0,0,0,270,Espresso Machine
+7,K01,K01_L15,laser,,0,0,0,270,Water Bottle
+8,K01,K01_L13,laser,,0,0,0,0,Cutting Board
+9,K01,K01_L12,laser,,0,0,0,0,Banana
+10,K01,K01_L19,laser,,0,0,0,270,Kettle
