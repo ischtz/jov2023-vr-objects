@@ -21,7 +21,7 @@ Researchers interested in replicating this work or using this codebase to build 
 
 If you use any data or code from this repository, please cite the corresponding manuscript: 
 
-Schuetz, I., Baltaretu, B. R., & Fiehler, K. (2024). Where was this thing again? Evaluating methods to indicate remembered object positions in virtual reality. Journal of Vision, 24(7), 10-10. https://doi.org/10.1167/jov.24.7.10.
+*Schuetz, I., Baltaretu, B. R., & Fiehler, K. (2024). Where was this thing again? Evaluating methods to indicate remembered object positions in virtual reality. Journal of Vision, 24(7), 10-10. https://doi.org/10.1167/jov.24.7.10.*
 
 Citation in BibTeX format:
 
